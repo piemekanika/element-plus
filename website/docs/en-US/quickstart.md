@@ -37,7 +37,7 @@ functionalities based on ES Module.
   import { ElButton } from 'element-plus'
 
   export default defineComponent({
-    name: 'app'
+    name: 'app',
     components: {
       ElButton,
     },
